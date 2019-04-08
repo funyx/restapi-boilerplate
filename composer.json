@@ -1,0 +1,14 @@
+{
+    "name": "mimo/restapi-boilerplate",
+    "description": "funyx/restapi boilerplate",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dimitar Dobchev",
+            "email": "ddobchev@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

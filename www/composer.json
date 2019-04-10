@@ -9,6 +9,19 @@
             "email": "ddobchev@gmail.com"
         }
     ],
+	"repositories": [
+	  {
+		"type": "vcs",
+		"url": "https://github.com/funyx/restapi"
+	  }
+	],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {
+	  "funyx/restapi": "dev-master"
+	},
+	"autoload": {
+	  "psr-4": {
+		"App\\": "lib"
+	  }
+	}
 }

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/www/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/www/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/www/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/www/vendor/atk4/core" />
+      <path value="$PROJECT_DIR$/www/vendor/atk4/data" />
+      <path value="$PROJECT_DIR$/www/vendor/atk4/dsql" />
+      <path value="$PROJECT_DIR$/www/vendor/funyx/restapi" />
+      <path value="$PROJECT_DIR$/www/vendor/composer" />
+      <path value="$PROJECT_DIR$/www/vendor/zendframework/zend-diactoros" />
+    </include_path>
+  </component>
+</project>
